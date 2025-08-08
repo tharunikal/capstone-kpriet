@@ -1,8 +1,3 @@
-# capstone-kpriet
-
-# drive link 
-https://drive.google.com/drive/folders/103pE0BXemnF5a9oehfxlio6Jb7JKGM3B?usp=sharing
-
 
 
 # VUA Metaphor Corpus Augmented Dataset
@@ -84,11 +79,11 @@ definition: To uncover; to show and display that which was hidden.
 - Word sense and definitions come from WordNet.
 - Additional preprocessing is required for transformer-based models (e.g., wrapping target words with special tokens `[TGT]` and `[/TGT]`).
 
-## Citation
-If you use this dataset, please cite the following works:
-- Steen et al., 2010 — VU Amsterdam Metaphor Corpus
-- Leong et al., 2018, 2020 — VUA preprocessed datasets
-- Maudslay & Teufel, 2022 — VUA-MPD subsets
 
-## License
-Check the Kaggle dataset page or original corpus license terms before commercial use.
+
+# capstone-kpriet
+
+# drive link 
+https://drive.google.com/drive/folders/103pE0BXemnF5a9oehfxlio6Jb7JKGM3B?usp=sharing
+
+
