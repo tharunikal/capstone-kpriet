@@ -1,6 +1,6 @@
 
 
-# VUA Metaphor Corpus Augmented Dataset
+# part 1 -VUA Metaphor Corpus Augmented Dataset
 
 ## Overview
 This dataset is a word sense augmentation of the **VU Amsterdam Metaphor Corpus (VUA)**, enriched with
